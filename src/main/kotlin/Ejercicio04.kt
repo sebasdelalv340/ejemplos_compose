@@ -18,7 +18,6 @@ fun Ejercicio04() {
     Box(
         modifier = Modifier.fillMaxSize(),
         contentAlignment = Alignment.BottomCenter
-
     ){
         Row(
             verticalAlignment = Alignment.Bottom,
