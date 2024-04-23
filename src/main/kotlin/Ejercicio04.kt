@@ -69,7 +69,6 @@ fun Ejercicio04() {
                 )
             }
         }
-
     }
 }
 
